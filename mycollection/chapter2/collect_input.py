@@ -1,0 +1,1 @@
+rating =int(input('Enter your rating: '))
